@@ -43,15 +43,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhilash404/abhilash404/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
